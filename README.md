@@ -1,4 +1,4 @@
-QuranBuddy: Your Personal Quran Companion
+# QuranBuddy: Your Personal Quran Companion
 
 Experience the beauty of the Quran like never before with QuranBuddy, your trusted companion for Quranic recitation and memorization. Whether you're a seasoned reciter or just beginning your Quranic journey, this app is designed to enrich your spiritual experience and enhance your recitation skills.
 
